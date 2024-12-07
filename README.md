@@ -1,5 +1,3 @@
----
-
 #### **Project Title**:  
 **ROI Prediction in Social Media Advertising Campaigns**
 
