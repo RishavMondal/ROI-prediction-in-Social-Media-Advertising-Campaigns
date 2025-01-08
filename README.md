@@ -9,7 +9,7 @@ This project explores the application of data analytics and machine learning tec
 ---
 
 #### **Dataset Description**:
-The dataset consists of 300,000 records detailing advertising campaigns on various platforms. Key features include:
+The dataset consists of 30,000 records detailing advertising campaigns on various platforms. Key features include:
 - **Campaign Information**: Campaign ID, Target Audience, Campaign Goal, Duration, Channel Used.
 - **Performance Metrics**: Conversion Rate, Acquisition Cost, ROI (target variable).
 - **Engagement Details**: Clicks, Impressions, Engagement Score.
